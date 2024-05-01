@@ -7,10 +7,6 @@
 
 - 🌱 I’m currently learning **Computer Science undergraduate degree @ Ariel University**.
 
-- 👨‍💻 All of my projects are available at [My website](https://www.hiyorix.com/).
-
-- 📫 You can reach me at my email: **me@hiyorix.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/Michal898018865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Michal898018865" height="30" width="40" /></a>
