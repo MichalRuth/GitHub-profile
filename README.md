@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MichalRuth&theme=monokai" alt="MichalRuth" /></a> </p>
 
-- 🌱 I’m currently pursuing an undergraduate degree in Computer Science at Ariel University, with a specialization in Data Science.
+- I am currently pursuing an undergraduate degree in Computer Science at Ariel University, with a specialization in Data Science.
 - Participating in a research project focusing on Model Serialization Attacks.
 - Contributed to a research project in architectural design by conducting 
 comprehensive statistical analyses.
