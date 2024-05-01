@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MichalRuth&theme=monokai" alt="MichalRuth" /></a> </p>
 
-- 🌱 I’m currently learning **Computer Science undergraduate degree @ Ariel University**.
+- 🌱 I’m currently learning **Computer Science undergraduate degree @Ariel University**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
